@@ -13,8 +13,8 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Create a New Branch                         | https://github.com/kappelemma/ppchem/tree/new            |
 | 1    | Create a conda environment                  | https://github.com/kappelemma/ppchem/blob/main/env.yml  |
 | 1    | Fork a Repo                                 | https://github.com/kappelemma/practical-programming-in-chemistry-milestones  |
-| 1    | (Optional) Make a Pull Request              | |
-| 2    | (Optional) Review a Pull Request            | |
+| 1    | (Optional) Make a Pull Request              | https://github.com/kappelemma/ppchem/pull/2     |
+| 2    | (Optional) Review a Pull Request            | https://github.com/kappelemma/ppchem/pull/2#pullrequestreview-2073653237  |
 | 4    | Update `env.yml` via a Pull Request         | https://github.com/kappelemma/ppchem/pull/1 |
 
 **More milestones will be added throughout the course.**
